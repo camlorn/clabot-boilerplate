@@ -1,1 +1,1 @@
-web: node src/clabot-sample.js
+web: coffee src/clabot-sample.coffee
